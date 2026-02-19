@@ -1,2 +1,2 @@
-# pro-cli-tool-dbre
-Automated issue comment bot repository
+# Pro Cli Tool Dbre
+Automated issue comment bot repository.
